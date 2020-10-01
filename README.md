@@ -1,4 +1,4 @@
-new-website
+New-Website
 ===========
 
 Website of https://cdnjs.com, for the cdn content, see [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) repo.
